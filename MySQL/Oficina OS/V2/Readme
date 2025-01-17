@@ -1,0 +1,10 @@
+Na oficina foi feito um modelo onde
+Clientes para veiculos, podendo ser mais de 1 veiculo por cliente
+
+veiculos para ordem de serviço, podendo ser mais de 1 OS por veiculo
+
+OS  para Itens da ordem de serviço, podendo ser mais de 1 tipo de serviço e falando o preço por serviço
+
+-
+
+no BD foi adicionado os itens e testado alguns dados do BD.
